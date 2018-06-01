@@ -1,3 +1,3 @@
-function objects(recipes) {
-  var recipes {}
+var objects{
+  recipes: object
 }
