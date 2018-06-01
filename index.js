@@ -1,3 +1,3 @@
-var objects = {
-  recipes: 'object'
+function objects() {
+  var recipes = new Object()
 }
