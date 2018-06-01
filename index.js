@@ -1,4 +1,4 @@
 function objects() {
-  var recipes = {'object'}
-  return recipes
+  var recipes = {object: 'object'}
+  return recipes.object
 }
