@@ -1,3 +1,3 @@
-function Objects() {
+function Objects(recipes) {
   var recipes = {}
 }
