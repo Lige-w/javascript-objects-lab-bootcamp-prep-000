@@ -1,1 +1,3 @@
-new Object([recipes])
+function Objects() {
+  var recipes = {}
+}
