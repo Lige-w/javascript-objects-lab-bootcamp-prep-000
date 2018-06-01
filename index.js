@@ -1,4 +1,4 @@
 function Objects() {
-  var recipes = new object()
+  var recipes = 'object'
   return recipes
 }
